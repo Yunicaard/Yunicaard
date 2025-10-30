@@ -6,7 +6,7 @@
     <td valign="top">
       <h1>👋 ¡Hola, soy Yunicaard!</h1>
       <p>
-        Soy un desarrollador apasionado por la tecnología, el código limpio y el aprendizaje constante.  
+        Soy un desarrollador apasionado por la tecnología, y el aprendizaje constante.  
         Me encanta crear proyectos que mezclen lógica, creatividad y un toque personal.  
         Actualmente sigo mejorando mis habilidades en desarrollo backend y explorando nuevas tecnologías para ampliar mis horizontes 🚀
       </p>
