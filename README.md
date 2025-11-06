@@ -22,7 +22,7 @@
 - 🌐 Tengo experiencia con **HTML**, **CSS** y **PostgreSQL**  
 - 🐧 Uso **Linux** como entorno principal de desarrollo  
 - 🧩 Me encanta aprender nuevas herramientas y frameworks  
-- ⚡ En mis ratos libres, disfruto trasteando con proyectos personales y mejorando mis repositorios
+- ⚡ En mis ratos libres, muchas veces me pongo a  trastear con proyectos personales y retocando mis repositorios
 
 ---
 
